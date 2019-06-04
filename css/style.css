@@ -1,0 +1,23 @@
+#orta {
+  background: url(https://kriesi.at/themes/enfold/wp-content/uploads/sites/37/2013/04/iphoneHand.png);
+  background-repeat: no-repeat; }
+  #orta .sagImg {
+    padding: 260px 0px; }
+
+.solImg {
+  padding: 20px 0; }
+
+.yazi .sekil {
+  position: relative; }
+.yazi .hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  opacity: 0; }
+  .yazi .hover:hover {
+    opacity: 0.7; }
+
+/*# sourceMappingURL=style.css.map */
